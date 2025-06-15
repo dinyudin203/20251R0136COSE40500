@@ -181,4 +181,4 @@ lf you have any questions or suggestions, feel free to drop us an email ( wangze
 
 ### Acknowledgement 
 Thanks to the open source of the following projects:
-[CLIP](https://huggingface.co/openai/clip-vit-base-patch32), [CLAP](https://github.com/LAION-AI/CLAP), [ULIP](https://github.com/salesforce/ULIP), [Imagebind](https://github.com/facebookresearch/ImageBind).
+[CLIP](https://huggingface.co/openai/clip-vit-base-patch32), [CLAP](https://github.com/LAION-AI/CLAP), [ULIP](https://github.com/salesforce/ULIP), [Imagebind](https://github.com/facebookresearch/ImageBind).# 20251R0136COSE40500
